@@ -56,13 +56,15 @@ On the basis of ROC-AUC score, XGBoost (with ROC-AUC score of 0.91) came out to 
 ![image](https://github.com/git-harshIIIT/customer_conversion_prediction/assets/107746453/33960393-eaed-43d9-b890-f8e090a5d4ff)
 
 ## References 
-● https://www.kaggle.com/code/arun0309/customer-segment
-● https://timesofindia.indiatimes.com/readersblog/janman/importance-of-insurance-51170/
-● https://neptune.ai/blog/customer-segmentation-using-machine-learning
-● https://www.sciencedirect.com/science/article/pii/S1877050918322385
+● https://www.kaggle.com/code/arun0309/customer-segment <br>
+● https://timesofindia.indiatimes.com/readersblog/janman/importance-of-insurance-51170/ <br>
+● https://neptune.ai/blog/customer-segmentation-using-machine-learning <br>
+● https://www.sciencedirect.com/science/article/pii/S1877050918322385 <br>
 
 ## Steps to execute
 1. git clone
 2. import all the libraries
 3. You are ready to go !!
+
+**Thankyou**
 
